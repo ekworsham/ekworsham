@@ -1,16 +1,17 @@
-## Hi there 👋
+HOA Website
+This is a personal project for managing the Whoville Heights HOA website. The site provides important information, resources, and updates for the community.
+Features
+•	Community News and Announcements: Stay informed about the latest events and updates.
+•	Resident Resources: Local vendors
+•	Directory: Member directory with contact information for homeowners.
+•	Event Calendar: Keep track of upcoming meetings and community events.
+•	Contact INFO: Easily reach out to the HOA board or property manager.
+Technologies Used
+•	Frontend: HTML, CSS, JavaScript
+•	Hosting: GitHub Pages
 
-<!--
-**ekworsham/ekworsham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contribution Guidelines
+Feel free to suggest any improvements or report issues in the project by creating an issue or a pull request.
+Contact
+For any questions or feedback, please contact Keith Worsham at Worsham.keith@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
